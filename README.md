@@ -26,3 +26,7 @@
 1. LSTM에 합성곱 신경망을 추가해 입력한 시계열 데이터 평활화 시도
 2. 벡터 자동 회귀 분석 시도
 
+## 참고자료
+<a href="https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201609562998162&dbt=NART">Han, Jung-Hee, and Geun-Cheol Lee. <i>“Forecasting Hourly Demand of City Gas in Korea.”</i> Journal of the Korea Academia-Industrial Cooperation Society. The Korea Academia-Industrial Cooperation Society, February 29, 2016. doi:10.5762/kais.2016.17.2.87.</a>
+
+<a href="https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO201200000846&dbt=TRKO">기상청, <i>도시가스 수요 분석 및 예측 솔루션 개발</i>,2012.02</a>
