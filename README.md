@@ -1,4 +1,4 @@
-# Comp-Covid-visualization
+# DACON-Gas-Prediction
 
 
 ## Description
